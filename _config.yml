@@ -20,7 +20,7 @@ webtitle: 'Popsicle's world'
 bio: 'Humanbeing'
 about: true
 aboutyou: 'I can do all things...'
-portraits: '/assets/pig.JPG' # your portraits image file path
+portraits: '/assetsprofile.jpeg' # your portraits image file path
 
 # SNS
 SNS: true
