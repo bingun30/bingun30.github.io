@@ -1,8 +1,8 @@
 # Site settings 配置站点
-title: 'Popsicle'
-description: 'learn to death'
-keywords: 'electronic information'
-url: 'https://bingun30.github.io' # your hos
+title: 'your awesome title'
+description: 'your web description'
+keywords: 'your web keywords, another keywords'
+url: 'https://abc.github.io' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
@@ -14,22 +14,31 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 # 博主
 author: true
-name: 'Huang Qichen'
-NickName: 'Popsilce'
-webtitle: 'Popsicle's world'
-bio: 'humanbeing'
+name: 'your awesome name'
+NickName: 'your awesome nickname'
+webtitle: 'your awesome webtitle'
+bio: 'your awesome bio'
 about: true
-aboutyou: 'Decadent but excellent'
-portraits: '/assets/pig.JPG' # your portraits image file path
+aboutyou: 'your introduction'
+portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
 SNS: true
-SNS-icon: #[ 'weibo', 'qq', 'github', 'weixin']
-  mail: 'mailto:1034024243@qq.com'
-  weixin: 'Hqc15888261097' # 你的微信二维码存放的地址
-  qq: 'http://wpa.qq.com/msgrd?v=3&uin='1034024243'&site=qq&menu=yes' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: 'bingun30'
-  weibo: '永冻冰棍'
+SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
+  mail: 'mailto:abc@gmail.com'
+  weixin: '' # 你的微信二维码存放的地址
+  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
+  github: ''
+  Codepen: ''
+  weibo: ''
+  instagram: ''
+  Twitter: ''
+  Dribbble: ''
+  Facebook: ''
+  Google: ''
+  zhihu: ''
+  juejin: ''
+  twitch: ''
 
 # 分页
 paginate: 2
