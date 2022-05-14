@@ -20,7 +20,7 @@ webtitle: 'Popsicle'
 bio: 'your awesome bio'
 about: true
 aboutyou: 'your introduction'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+portraits: '/assets/Curry.JPG' # your portraits image file path
 
 # SNS
 SNS: true
