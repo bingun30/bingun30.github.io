@@ -4,7 +4,7 @@ title:  "A test"
 date:   2020-05-14 14:40:21 +0800
 tags: jekyll update
 color: rgb(255,90,90)
-cover: '../assets/test.png'
+cover: '../assets/pig.JPG'
 subtitle: 'A webset test'
 ---
 It's exciting to have my own website.And this post is a test.
