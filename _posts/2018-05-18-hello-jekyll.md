@@ -4,7 +4,6 @@ title: 'Test 2'
 date: 2022-05-14
 author: Popsicle
 color: rgb(255,210,32)
-cover: 'test.png'
 tags: jekyll
 ---
 
