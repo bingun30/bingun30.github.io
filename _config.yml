@@ -17,10 +17,10 @@ author: true
 name: 'Huang Qichen'
 NickName: 'Popsilce'
 webtitle: 'Popsicle's world'
-bio: 'your awesome bio'
+bio: 'humanbeing'
 about: true
-aboutyou: 'your introduction'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+aboutyou: 'Decadent but excellent'
+portraits: '/assets/pig.JPG' # your portraits image file path
 
 # SNS
 SNS: true
