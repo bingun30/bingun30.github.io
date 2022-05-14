@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: 'Popsicle'
-description: 'Nothing at all'
-keywords: 'Learn to death'
+title: 'popsicle'
+description: 'nothing at all'
+keywords: 'learn to death'
 url: 'https://bingun30.github.io' # your host
 
 # nav 中文字符空格：&emsp;
