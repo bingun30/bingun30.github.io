@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: 'Popsicle'
 description: 'nothing at all'
-keywords: 'life, study'
+keywords: 'Life, Study,Test'
 url: 'https://bingun.github.io' # your host
 
 # nav 中文字符空格：&emsp;
