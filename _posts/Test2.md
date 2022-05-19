@@ -4,7 +4,7 @@ title: 'Test 2'
 date: 2022-05-14
 author: Popsicle
 color: rgb(255,210,32)
-tags: jekyll
+tags: Test
 ---
 
 > 下面是不同标题的显示
